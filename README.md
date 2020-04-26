@@ -1,2 +1,2 @@
 # LebanonFastTrainsProject
- A database project for dr Wassim ElFalou
+ A simulation of trains network management system in Lebanon.
